@@ -374,7 +374,7 @@ main{
     margin-top: 55px;
     width: 100%;
     height: 100vh;
-    background: url(/images/bg.jpg) no-repeat center;
+    background: url(images/bg.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -1500,5 +1500,5 @@ footer{
 }
 @font-face {
     font-family: 'love';
-    src: url(/fonts/Love.otf);
+    src: url(fonts/Love.otf);
 }
