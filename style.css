@@ -1426,10 +1426,10 @@ footer{
     font-weight: 50;
 
 }
-.copy a{
+.copy h1 a{
     color: white;
 }
-.copy a:hover{
+.copy h1 a:hover{
     transition-duration: .2s;
     transition-timing-function: ease;
     color:rgb(235,113,88);
